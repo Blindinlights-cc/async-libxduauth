@@ -13,7 +13,7 @@ bs4 = "^0.0.1"
 pillow = "^10.0.0"
 pycryptodome = "^3.18.0"
 lxml = "^4.9.3"
-[tool.poetry.dev-dependencies]
+[tool.poetry.group.test.dependencies]
 python-dotenv = "^1.0.0"
 pytest = "^7.4.1"
 [build-system]
