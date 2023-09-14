@@ -1,0 +1,6 @@
+.vscode
+.benchmarks
+.*cache
+.env
+__pycache__
+dist
